@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metafile version="1.5"  client="site" >
+	<tag>lv-LV</tag>
+	<name>Latvian</name>
+	<description>Latvian front-end translation</description>
+	<version>1.5.20v1</version>
+	<creationDate>27.07.2010</creationDate>
+	<author>Edgars Piruška - Latvian Joomla! team</author>
+	<authorUrl>www.joomlalv.org</authorUrl>
+	<authorEmail>lemings@inbox.lv</authorEmail>
+	<copyright>Copyright (C) 2005 - 2010 Open Source Matters. All rights reserved.</copyright>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL v2, see LICENSE.php</license>
+	<metadata>
+		<name>Latvian</name>
+		<tag>lv-LV</tag>
+		<rtl>0</rtl>
+		<locale>Latvian, lv_LV.UTF-8, lv_LV.utf8</locale>
+		<winCodePage>utf8</winCodePage>
+		<backwardLang>latvian</backwardLang>
+		<pdfFontName>freesans</pdfFontName>
+	</metadata>
+	<params></params>
+</metafile>
